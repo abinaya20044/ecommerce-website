@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "devDependencies": {
+    "babel-loader": "^9.1.3",
+    "webpack": "^5.90.0"
+    
+  }
+}
